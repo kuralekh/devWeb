@@ -20,7 +20,9 @@ header{
 
 }
 .section{
-     margin-bottom: 30px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+/*     margin-bottom: 30px;*/
 
 }
 .blue-square{
@@ -45,9 +47,36 @@ header{
     color: #2a2457;
 }
 .case-item{
+    position:relative;
+/*    background-image: url(img/comp.jpg);*/
+/*    background-repeat: no-repeat;*/
     height: 200px;
     border-radius: 10px;
     border: 2px solid #2a2457;
+    text-align: center;
+    line-height: 200px;
+
+}
+.case-item:after{
+ content:'';
+ display:block;
+ position:absolute;
+ z-index:-1;
+ top:0;
+ left:0;
+ bottom:0;
+ right:0;
+ background: url(img/comp.jpg) no-repeat center;
+ background-size: cover;
+}
+.case-item:hover:after{
+   filter: blur(5px);
+}
+
+
+.btn-more{
+  display: none;
+
 }
 .footer-panel{
     margin-bottom: 0px;
