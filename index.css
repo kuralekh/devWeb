@@ -1,0 +1,54 @@
+body{
+    background-color: #d6e8f6;
+}
+header{
+    color: #2a2457;
+}
+.com-name{
+    color: #2a2457;
+    border-right: 3px solid #2a2457;
+    font-size: 64px;
+
+}
+.com-info{
+    color: #2a2457;
+    font-size: 18px;
+/*    padding-top: 20px;*/
+}
+.first-section{
+    margin-top: 10px;
+
+}
+.section{
+     margin-bottom: 30px;
+
+}
+.blue-square{
+    background-color: #1cb5e3;
+    border-radius: 10px;
+    color: #2a2457;
+    height: 200px;
+    font-size: 26px;
+    padding-top: 28px;
+}
+/*.square-first{*/
+/*    padding-top: 40px;*/
+/*}*/
+.number{
+    font-size: 40px;
+    font-weight: bold;
+}
+.about-us{
+    color: #2a2457;
+}
+.case-studies{
+    color: #2a2457;
+}
+.case-item{
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid #2a2457;
+}
+.footer-panel{
+    margin-bottom: 0px;
+}
