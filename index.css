@@ -33,9 +33,7 @@ header{
     font-size: 26px;
     padding-top: 28px;
 }
-/*.square-first{*/
-/*    padding-top: 40px;*/
-/*}*/
+
 .number{
     font-size: 40px;
     font-weight: bold;
@@ -80,4 +78,12 @@ header{
 }
 .footer-panel{
     margin-bottom: 0px;
+}
+.not-resizable{
+    resize: none;
+}
+.connect-us{
+    color: #2a2457;
+    border-radius: 10px;
+    border: 2px solid #2a2457;
 }
