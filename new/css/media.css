@@ -1,0 +1,33 @@
+@media only screen and (max-width : 425px) {
+    .proIT-main{
+        font-size: 50px;
+
+    }
+
+    .company-main{
+        font-size: 26px;
+    }
+    .map{
+        padding-top: 20px;
+        padding-bottom: 80px;
+
+    }
+}
+@media only screen and  (max-width : 768px) and (min-width: 426px){
+     .proIT-main{
+        font-size: 60px;
+
+    }
+
+    .company-main{
+        font-size: 26px;
+    }
+    .map{
+        padding-top: 80px;
+        padding-bottom: 180px;
+
+    }
+    .projects-img{
+        margin: 0 auto;
+    }
+}

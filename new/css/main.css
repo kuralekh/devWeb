@@ -6,6 +6,7 @@
     font-family: PT_Sans-Web-Regular; /* Имя шрифта */
     src: url(../fonts/PT_Sans-Web-Regular.ttf); /* Путь к файлу со шрифтом */
    }
+
 body{
     margin: 0 auto;
     padding: 0px;
