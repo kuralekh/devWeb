@@ -12,6 +12,21 @@
         padding-bottom: 80px;
 
     }
+    .my-btn{
+        font-size: 14px;
+    }
+    .footer-svg{
+        float: none;
+        margin: 0 auto;
+
+    }
+    .icons{
+        display: block
+    }
+    .copy{
+        margin: 0 auto;
+        display: block;
+    }
 }
 @media only screen and  (max-width : 768px) and (min-width: 426px){
      .proIT-main{

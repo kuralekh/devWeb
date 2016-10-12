@@ -36,11 +36,12 @@ body{
 .map{
     background-image: url(../img/image%202.jpg);
     background-repeat: no-repeat;
-    padding-top: 170px;
-    padding-bottom: 270px;
-    background-size:contain;
+    padding-top: 330px;
+    padding-bottom: 110px;
+    background-size:cover;
     color: #003857;
     font-family: PT_Sans-Web-Bold;
+    margin-bottom: 60px;
 }
 .navbar{
     margin-bottom: 0px;
@@ -54,17 +55,7 @@ body{
 .skills{
     color: #2B272A;
 }
-/*
-.skills-webdev{
-    background-image: url(../img/icons/html.svg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 190px;
-    height: 190px;
-    border-radius: 60px;
 
-}
-*/
 .grey-circle{
    border: 1px solid #E4E4E4;
     border-radius: 100px;
@@ -250,5 +241,17 @@ color: #fff !important;
     text-decoration: none;
     color: #fff;
 }
-
+.footer{
+    background-color: #EEEEEE;
+    color: #000D23;
+    font-family: PT_Sans-Web-Regular;
+    font-size: 22px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+.footer-svg{
+    width: 35px;
+    float:right;
+    margin-left: 10px;
+}
 
