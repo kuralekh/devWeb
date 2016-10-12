@@ -246,12 +246,13 @@ color: #fff !important;
     color: #000D23;
     font-family: PT_Sans-Web-Regular;
     font-size: 22px;
-    padding-top: 50px;
-    padding-bottom: 90px;
+    padding-top: 22px;
+    padding-bottom: 22px;
 }
 .footer-svg{
     width: 35px;
-    float:right;
-    margin-left: 10px;
+/*    float:right;*/
+    margin-left: 30px;
+    margin-bottom: 20px;
 }
 

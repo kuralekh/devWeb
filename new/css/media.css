@@ -16,17 +16,10 @@
         font-size: 14px;
     }
     .footer-svg{
-        float: none;
-        margin: 0 auto;
+        margin-left: 10px;
+        width: 30px;
+    }
 
-    }
-    .icons{
-        display: block
-    }
-    .copy{
-        margin: 0 auto;
-        display: block;
-    }
 }
 @media only screen and  (max-width : 768px) and (min-width: 426px){
      .proIT-main{
